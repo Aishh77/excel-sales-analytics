@@ -33,7 +33,6 @@ Sales grew steadily across different years. P & L statement by Months.pdf
 Best performance observed in later months of the year.
 Gross margin showed a slight downward trend over time.
 📅 P&L by Fiscal Years
-
 Revenue has increased significantly over the years.P&L statement by Fiscal Years.pdf
 Costs are rising faster than revenue, impacting profitability.
 Gross margin has been declining year after year.
