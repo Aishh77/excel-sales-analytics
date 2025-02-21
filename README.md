@@ -23,3 +23,25 @@ Customer & Market Performance Overview:
 ✅ Expand into top-performing markets to leverage growth potential.
 
 This summary provides a concise overview of business performance and outlines key actions for sustained growth and market leadership.                                        
+
+Financial Performance Summary
+📌 P&L by Market
+Strong sales in key markets. P & L statement by Market.pdf
+Some regions, such as New Zealand, Japan, and the Netherlands, have higher profit margins compared to others.
+📆 P&L by Months
+Sales grew steadily across different years. P & L statement by Months.pdf
+Best performance observed in later months of the year.
+Gross margin showed a slight downward trend over time.
+📅 P&L by Fiscal Years
+
+Revenue has increased significantly over the years.P&L statement by Fiscal Years.pdf
+Costs are rising faster than revenue, impacting profitability.
+Gross margin has been declining year after year.
+
+📈 Key Recommendations
+✅ Key markets are driving revenue growth – Focus on these regions for expansion.
+✅ Rising costs need to be controlled – Optimize supply chains and cost management.
+✅ Gross margins are declining – Adjust pricing strategies to improve profitability.
+✅ Peak sales occur in later months – Plan inventory and marketing accordingly.
+
+This summary provides a clear financial overview and actionable strategies for sustained growth.
